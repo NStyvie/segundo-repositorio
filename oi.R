@@ -1,1 +1,3 @@
 oi
+
+hist(mtcars$mpg)
